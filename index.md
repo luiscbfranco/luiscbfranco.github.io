@@ -1,3 +1,13 @@
+Welcome to my personal repository
+### About me
+
+My name is Luís Franco and i am living in city near Lisbon, Portugal.
+
+I am a Microsoft Dynamics NAV/365 BC developer and i started working with Microsoft Dynamics NAV in 2006, back then it was called Microsoft Business Solutions Navision.
+The first contact it was with Navision version 3.70 version and after that i've worked with almost version of NAV and now more recently with Dynamics 365 BC.
+
+Nowadays most part of time it is dedicated to give formation and trainning to the new collegues (trainees)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/luiscbfranco/luiscbfranco.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
