@@ -1,7 +1,7 @@
 Welcome to my personal repository
 ### About me
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/luiscbfranco/luiscbfranco.github.io/blob/master/ProfilePic.jpg)
 My name is Luís Franco and i am living in Torres Vedras a city near Lisbon, Portugal.
 
 I am a Microsoft Dynamics NAV/365 BC developer and i started working with Microsoft Dynamics NAV in 2006, back then it was called Microsoft Business Solutions Navision.
