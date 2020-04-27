@@ -15,11 +15,11 @@ Nowadays most part of time it is dedicated to give formation and trainning to th
 | Content Cell  | Content Cell  |
 
 ### Work Experience
-Title            | Start Date | End Date |Company                      | Role |
----------------- | ---------- |--------- | --------------------------- | ---- |
-Senior Developer | Sept 2014  | Present  | Arquiconsult                | bla  |
-Senior Developer | Jan 2011   | Aug 2008 | Link Managment Solution, SA | BC   |
-Developer        | Aug 2008   | Dez 2010 | Link Managment Solution, SA | C    |
+| Title            | Start Date | End Date |Company                      | Role |
+| ---------------- | ---------- |--------- | --------------------------- | ---- |
+| Senior Developer | Sept 2014  | Present  | Arquiconsult                | bla  |
+| Senior Developer | Jan 2011   | Aug 2008 | Link Managment Solution, SA | BC   |
+| Developer        | Aug 2008   | Dez 2010 | Link Managment Solution, SA | C    |
 
 ### Academic Education
 - Degree in Computer Engineering at ISTEC (Instituto Superior Tecnologias Avançadas).
