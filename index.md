@@ -21,12 +21,14 @@ Developer | Aug 2008 | Dez 2010 | Link Managment Solution, SA | ....
 
 
 ### Other Qualifications
-- Certificação Microsoft 462: Administering Microsoft SQL Server 2012 Databases
-- Certificação Microsoft MB6-872: Dynamics AX 2012 Installation and configuration
-- Curso Microsoft 80475A: Instalación y configuración de Microsoft Dynamics AX 2012 (Prodware)
-- Curso Microsoft 6236: Implementing and Maintaining Microsoft SQL Server 2008 Reporting Services
-- Curso Microsoft 80040A: Installation and Configuration in Microsoft Dynamics NAV 2009
-- Curso Microsoft 80156: SQL Server Installation and Optimization for Microsoft Dynamics NAV
+- **Certification**
+  - Microsoft 70-462: Administering Microsoft SQL Server 2012 Databases 
+  - Microsoft MB6-872: Dynamics AX 2012 Installation and configuration
+- **Courses**
+  - Microsoft 80475A: Instalación y configuración de Microsoft Dynamics AX 2012 (Prodware)
+  - Microsoft 6236: Implementing and Maintaining Microsoft SQL Server 2008 Reporting Services
+  - Microsoft 80040A: Installation and Configuration in Microsoft Dynamics NAV 2009
+  - Microsoft 80156: SQL Server Installation and Optimization for Microsoft Dynamics NAV
 
 ## Welcome to GitHub Pages
 
