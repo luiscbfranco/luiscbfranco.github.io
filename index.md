@@ -25,7 +25,7 @@ Nowadays most part of time it is dedicated to give formation and trainning to th
 
 
 | Title            | Start Date | End Date | Company                     | Role |
-| ---------------- | ---------- | -------- | --------------------------- | ---- |
+| :--------------- | ---------- | -------- | :-------------------------- | ---- |
 | Senior Developer | Sept 2014  | Present  | Arquiconsult                | bla  |
 | Senior Developer | Jan 2011   | Aug 2008 | Link Managment Solution, SA | BC  1 |
 | Developer        | Aug 2008   | Dez 2010 | Link Managment Solution, SA | C   2 |
