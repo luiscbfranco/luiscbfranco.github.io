@@ -9,9 +9,9 @@ The first contact it was with Navision version 3.70 version and after that i've 
 Nowadays most part of time it is dedicated to give formation and trainning to the new collegues (trainees)
 
 ### Work Experience
-Title | Start Date | End Date |Company | Role
------ | ---------- |--------- | ------ | ----
-Senior Developer | Sept 2014 | Present | Arquiconsult |A
+Title | Start Date | End Date |Company | Role |
+----- | ---------- |--------- | ------ | ---- |
+Senior Developer | Sept 2014 | Present | Arquiconsult |A |
 Senior Developer | Jan 2011 | Aug 2008 | Link Managment Solution, SA| BC
 Developer | Aug 2008 | Dez 2010 | Link Managment Solution, SA | C
 
